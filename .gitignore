@@ -1,4 +1,32 @@
-
 # PyCharm IDE files
 .idea/
 *.iml
+*.ipr
+*.iws
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Python & Quant Finance additions
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Optional extras for quant work
+*.log
+.env
+*.so
+*.dll
+*.dylib
+.pytest_cache/
+.mypy_cache/
