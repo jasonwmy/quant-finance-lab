@@ -24,3 +24,9 @@ __pycache__/
 *.dylib
 .pytest_cache/
 .mypy_cache/
+
+# PyCharm IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
