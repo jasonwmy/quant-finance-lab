@@ -2,15 +2,18 @@
 Quant project and research
 
 **#Day1 - Installation**
-- Terminal command 
-  - cd ..          # Go up one level 
-  - ls             # List folders 
-  - cd "project"   # Enter the project)
-  - pwd            # Working Directory
-  - clear          # Clear comments
-  - Go home	cd ~
-  - ~/             #Reference your home folder	 (e.g., ~/Desktop)
-  - \              #Handle a space in a folder name OR quotes: "folder name"
+- Terminal command
+
+| Command | Explanation |
+|---------|-------------|
+| `cd ..` | Go up one level |
+| `ls` | List folders |
+| `cd "project"` | Enter a project |
+| `pwd` | Print working directory |
+| `clear` | Clear terminal screen |
+| `cd ~` | Go to home folder |
+| `~/` | Reference your home folder (e.g., `~/Desktop`) |
+| `\` | Handle spaces in folder names (or use quotes: `"folder name"`) |
 
 - Latest Git (2.54.0) installation via Homebrew (terminal)
 - Github Repository Creation for Project
@@ -24,11 +27,8 @@ Quant project and research
 
 A well-configured .gitignore keeps the repository clean.
 
-#Day 2 - 
-
-## Git Sync Issue
-Git version differs between GitHub and PyCharm.
-
-### Solution:
+**#Day 2**
+Git Sync Issue
+_Git version differs between GitHub and PyCharm._
 ```bash
 git pull origin main
