@@ -8,6 +8,10 @@ Quant project and research
   - cd "project"   # Enter the project)
   - pwd            # Working Directory
   - clear          # Clear comments
+  - Go home	cd ~
+  - ~/             #Reference your home folder	 (e.g., ~/Desktop)
+  - \              #Handle a space in a folder name OR quotes: "folder name"
+
 - Latest Git (2.54.0) installation via Homebrew (terminal)
 - Github Repository Creation for Project
 - Pycharm connection to Github Repository (https)
