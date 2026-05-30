@@ -25,3 +25,6 @@ Quant project and research
 A well-configured .gitignore keeps the repository clean.
 
 #Day 2 - 
+
+Git version differs between Github and Pycharm: 
+'''git pull origin main'''
